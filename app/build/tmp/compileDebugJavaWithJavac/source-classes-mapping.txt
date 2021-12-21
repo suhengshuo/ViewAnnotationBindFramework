@@ -1,0 +1,4 @@
+com/hellobike/viewannotationbindframework/BuildConfig.java
+ com.hellobike.viewannotationbindframework.BuildConfig
+com/hellobike/viewannotationbindframework/MainActivity.java
+ com.hellobike.viewannotationbindframework.MainActivity
